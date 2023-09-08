@@ -68,7 +68,7 @@ const submit = document.getElementById('submit').addEventListener('click', ()=>{
             password.value = ""
             confirmPassword.value = ""
             submit.value = "signup"
-            window.location.href = "http://127.0.0.1:5500/login/login.html"
+            window.location.href = "http://127.0.0.1:5500/index.html"
         },1000)
     }
 })
